@@ -1,5 +1,7 @@
 # Python-Application-using-MySQL
 
+This python application creates an MySQL database containing words and definations. User can retrieve data from table and display selected words' definations.
+
 
 To Do:
 
@@ -12,3 +14,5 @@ To Do:
 4: Retrieve data from the MySQL Table using Select.
 
 5: Change a table Entry using Update.
+
+Tools Used: Visual studio code
